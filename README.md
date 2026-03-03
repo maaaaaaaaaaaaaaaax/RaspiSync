@@ -43,5 +43,5 @@ SSH_PYTHON_EXEC=
 Run the command from the root of your project:
 
 ```sh
-raspisync
+raspiSync
 ```
